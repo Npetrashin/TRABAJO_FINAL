@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\github\\trabajo_final\\matematicas en accion 5.4\\intermediate\\build\\win64\\x64\\unrealgame\\development\\matematicasena\\module.matematicasena.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\github\\trabajo_final\\matematicas en accion 5.4\\intermediate\\build\\win64\\x64\\matematicasena\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\github\\trabajo_final\\matematicas en accion 5.4\\intermediate\\build\\win64\\x64\\unrealgame\\development\\matematicasena\\definitions.matematicasena.h",
+            "c:\\users\\user\\documents\\github\\trabajo_final\\matematicas en accion 5.4\\intermediate\\source\\matematicasena.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
