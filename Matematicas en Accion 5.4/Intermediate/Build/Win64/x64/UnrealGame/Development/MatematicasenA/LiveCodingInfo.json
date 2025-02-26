@@ -1,8 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.MatematicasenA.cpp.obj": [
-			"MatematicasenA.cpp.obj"
-		]
-	}
-}
