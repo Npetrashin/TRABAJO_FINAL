@@ -13,6 +13,13 @@ El juego está dirigido a estudiantes de primaria (de 1ro a 5to grado) y consta 
 Cada cuestionario contiene 5 preguntas y debe ser respondido correctamente para avanzar al siguiente nivel.
 
 ---
+## Tecnologías Utilizadas
+El juego ha sido desarrollado utilizando las siguientes tecnologías:
+- **Unreal Engine 5**: Motor de desarrollo de videojuegos.
+- **Blueprints**: Sistema de programación visual de Unreal Engine.
+- **Windows**: Plataforma de ejecución del juego.
+
+---
 
 ## Instrucciones de Uso
 
