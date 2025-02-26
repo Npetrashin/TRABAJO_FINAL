@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Home PC\\Downloads\\TRABAJO_FINAL\\TRABAJO_FINAL\\Matematicas en Accion 5.4\\Intermediate\\Source\\MatematicasenA.Build.cs",
+		"C:\\Users\\Home PC\\Downloads\\TRABAJO_FINAL\\TRABAJO_FINAL\\Matematicas en Accion 5.4\\Intermediate\\Source\\MatematicasenA.Target.cs",
+		"C:\\Users\\Home PC\\Downloads\\TRABAJO_FINAL\\TRABAJO_FINAL\\Matematicas en Accion 5.4\\Intermediate\\Source\\MatematicasenAClient.Target.cs",
+		"C:\\Users\\Home PC\\Downloads\\TRABAJO_FINAL\\TRABAJO_FINAL\\Matematicas en Accion 5.4\\Intermediate\\Source\\MatematicasenAEditor.Target.cs",
+		"C:\\Users\\Home PC\\Downloads\\TRABAJO_FINAL\\TRABAJO_FINAL\\Matematicas en Accion 5.4\\Intermediate\\Source\\MatematicasenAServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
